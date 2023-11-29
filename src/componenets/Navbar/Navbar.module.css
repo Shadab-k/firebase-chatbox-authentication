@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    height: 60px;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    align-items: center;
+  
+}
+h3{
+color: white;
+font-size: 5vh;
+margin-right: 570px;
+}
+
+nav ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin-right: 20px; */
+    text-decoration: none;
+    list-style: none;
+}
+nav ul li a{
+    margin-right: 50px;
+    text-decoration: none;
+
+    color: white;
+
+}
